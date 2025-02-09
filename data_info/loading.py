@@ -49,7 +49,9 @@ def loaded_data():
 
     file_name = get_filenames(path)
 
-    full_path = os.path.join(path, file_name[0])
+    full_path = os.path.join(path, file_name[-5])
+    
+    print(full_path)
 
     return loading_data(full_path)
     
