@@ -1,6 +1,7 @@
 import streamlit as st 
-from loading import loaded_data
-from cleaning import DataCleaning
+
+from pages.processor.loading import loaded_data
+from pages.processor.cleaning import DataCleaning
 
 df = loaded_data()
 
@@ -26,7 +27,8 @@ commands = sub1.radio("Function to Perform: ",["Describe Data","Check Nullity","
 
 if commands == "Describe Data": 
     
-    df = DataCleaning(df,"").describe_data()
+    with st.spinner("please wait--"):
+        df = DataCleaning(df,"").describe_data()
     
 
 elif commands == "Check Nullity":
@@ -46,12 +48,15 @@ elif commands == "Replace Unwanted Character":
     
     char_to_replace_with = sub1.text_input("Char to Rep With: ")
     
-    df = DataCleaning(df,init_columns).rem_unwanted_char([char_to_rem],char_to_replace_with)
+    clean_btn  = sub1.button("Replace")
     
+    if clean_btn:
+        
+        with sub1.status("Done Cleaning..."):
+    
+            df = DataCleaning(df,init_columns).rem_unwanted_char([char_to_rem],char_to_replace_with)
     
 
 sub2.dataframe(df)
 
 df.to_csv("temp.csv")
-
-
