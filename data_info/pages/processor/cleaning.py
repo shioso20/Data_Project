@@ -1,3 +1,4 @@
+import pandas as pd
 class DataCleaning: 
     
     
@@ -16,12 +17,17 @@ class DataCleaning:
     
     def rem_unwanted_char(self,char_list,replace_by):
         
+        cols  = []
+        
         for col in self.col:
 
             for char in char_list: 
             
                 self.df[col] = self.df[col].str.replace(char,replace_by)
-                
+        
+            cols.append(col)
+            
+        self.df[cols] = self.df[cols].apply(pd.to_numeric,errors="coerce")
         return self.df 
     
     

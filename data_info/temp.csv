@@ -1,426 +1,426 @@
 ,Loan Purpose,Checking ,Savings,Months Customer,Months Employed,Gender,Marital Status,Age,Housing,Years,Job,Credit Risk
-0,Small Appliance,$0,$739,13,12,M,Single,23,Own,3,Unskilled,Low
-1,Furniture,$0,"$1,230",25,0,M,Divorced,32,Own,1,Skilled,High
-2,New Car,$0,$389,19,119,M,Single,38,Own,4,Management,High
-3,Furniture,$638,$347,13,14,M,Single,36,Own,2,Unskilled,High
-4,Education,$963,"$4,754",40,45,M,Single,31,Rent,3,Skilled,Low
-5,Furniture,"$2,827",$0,11,13,M,Married,25,Own,1,Skilled,Low
-6,New Car,$0,$229,13,16,M,Married,26,Own,3,Unskilled,Low
-7,Business,$0,$533,14,2,M,Single,27,Own,1,Unskilled,Low
-8,Small Appliance,"$6,509",$493,37,9,M,Single,25,Own,2,Skilled,High
-9,Small Appliance,$966,$0,25,4,F,Divorced,43,Own,1,Skilled,High
-10,Business,$0,$989,49,0,M,Single,32,Rent,2,Management,High
-11,New Car,$0,"$3,305",11,15,M,Single,34,Rent,2,Unskilled,Low
-12,Business,$322,$578,10,14,M,Married,26,Own,1,Skilled,Low
-13,New Car,$0,$821,25,63,M,Single,44,Own,1,Skilled,High
-14,New Car,$396,$228,13,26,M,Single,46,Own,3,Unskilled,Low
-15,Used Car,$0,$129,31,8,M,Divorced,39,Own,4,Management,Low
-16,Furniture,$652,$732,49,4,F,Divorced,25,Own,2,Skilled,High
-17,New Car,$708,$683,13,33,M,Single,31,Own,2,Skilled,Low
-18,Repairs,$207,$0,28,116,M,Single,47,Own,4,Skilled,Low
-19,Education,$287,"$12,348",7,2,F,Divorced,23,Rent,2,Skilled,High
-20,Furniture,$0,"$17,545",34,16,F,Divorced,22,Own,4,Skilled,High
-21,Furniture,$101,"$3,871",13,5,F,Divorced,26,Rent,4,Skilled,High
-22,Furniture,$0,$0,25,23,M,Married,19,Own,4,Skilled,High
-23,Furniture,$0,$485,37,23,F,Divorced,27,Own,2,Management,High
-24,New Car,$0,"$10,723",11,15,M,Single,39,Rent,2,Unskilled,Low
-25,Business,$141,$245,22,33,M,Single,26,Own,3,Skilled,Low
-26,Used Car,$0,$0,19,58,M,Single,50,Other,4,Skilled,High
-27,Used Car,"$2,484",$0,49,46,M,Single,34,Other,1,Skilled,Low
-28,Small Appliance,$237,$236,37,24,M,Single,23,Rent,4,Skilled,Low
-29,Small Appliance,$0,$485,19,12,M,Single,23,Own,2,Skilled,Low
-30,Education,$335,"$1,708",37,7,M,Single,46,Other,4,Skilled,High
-31,Small Appliance,"$3,565",$0,31,32,M,Single,35,Own,3,Skilled,Low
-32,Small Appliance,$0,$407,13,2,F,Divorced,28,Own,2,Skilled,Low
-33,Business,"$16,647",$895,16,34,M,Single,25,Rent,4,Skilled,Low
-34,Business,$0,$150,49,46,F,Divorced,36,Rent,4,Skilled,High
-35,Small Appliance,$0,$490,5,41,M,Single,41,Own,1,Unskilled,Low
-36,Furniture,$0,$162,25,1,M,Divorced,54,Own,1,Skilled,High
-37,Small Appliance,$940,$715,9,40,F,Divorced,43,Own,2,Unskilled,Low
-38,Small Appliance,$0,$323,49,42,M,Married,33,Own,1,Skilled,High
-39,New Car,$0,$128,13,74,M,Single,34,Own,3,Skilled,High
-40,Other,$218,$0,49,0,M,Single,39,Other,4,Unemployed,Low
-41,Used Car,$0,$109,25,26,M,Single,34,Own,3,Unskilled,Low
-42,Small Appliance,"$16,935",$189,37,60,M,Single,30,Own,2,Skilled,Low
-43,Furniture,$664,$537,31,33,M,Single,48,Own,2,Skilled,High
-44,Furniture,$150,"$6,520",12,1,F,Divorced,19,Own,1,Skilled,Low
-45,Small Appliance,$0,$138,7,119,M,Married,29,Rent,2,Skilled,Low
-46,Furniture,$216,$0,19,3,F,Divorced,26,Rent,3,Skilled,High
-47,New Car,$0,$660,17,75,M,Single,42,Rent,4,Skilled,High
-48,Business,$0,$724,25,8,M,Single,30,Rent,2,Skilled,High
-49,Small Appliance,$0,$897,19,5,M,Married,38,Own,4,Skilled,Low
-50,Small Appliance,$265,$947,25,5,M,Married,21,Own,1,Skilled,High
-51,Furniture,"$4,256",$0,16,36,F,Divorced,32,Rent,4,Unskilled,Low
-52,Business,$870,$917,28,6,M,Single,35,Own,2,Skilled,High
-53,New Car,$162,$595,22,10,M,Divorced,46,Own,4,Skilled,Low
-54,Used Car,$0,$789,25,28,M,Single,37,Own,3,Management,Low
-55,Education,$0,$0,37,114,M,Single,39,Own,4,Management,High
-56,Furniture,$0,$746,13,16,F,Divorced,29,Own,3,Skilled,Low
-57,New Car,$461,$140,19,32,M,Single,27,Rent,3,Unskilled,Low
-58,New Car,$0,$659,19,5,F,Divorced,22,Rent,3,Skilled,High
-59,Furniture,$0,$717,37,60,M,Single,40,Own,2,Skilled,High
-60,New Car,$0,$667,29,10,M,Single,44,Own,2,Unskilled,High
-61,New Car,$580,$0,11,8,M,Single,26,Own,4,Unskilled,High
-62,Small Appliance,$0,$763,13,46,F,Divorced,57,Own,3,Unskilled,Low
-63,New Car,$0,"$1,366",19,17,M,Single,34,Own,4,Unskilled,Low
-64,Small Appliance,$0,$552,25,4,M,Married,47,Own,4,Skilled,High
-65,Small Appliance,$0,"$14,643",16,115,M,Single,46,Own,3,Skilled,Low
-66,Business,$758,"$2,665",13,31,M,Single,38,Own,4,Unskilled,Low
-67,Used Car,$399,$0,31,0,F,Divorced,52,Own,1,Management,High
-68,Furniture,$513,$442,7,0,M,Single,34,Own,1,Management,Low
-69,Furniture,$0,"$8,357",25,5,M,Single,29,Other,4,Skilled,High
-70,New Car,$0,$0,22,9,M,Single,39,Own,2,Unskilled,High
-71,Small Appliance,$565,$863,10,81,M,Single,36,Own,4,Unskilled,Low
-72,Business,$0,$322,28,28,M,Single,25,Own,4,Skilled,Low
-73,Furniture,$0,$800,13,69,M,Single,59,Own,3,Skilled,High
-74,Small Appliance,$0,$656,37,85,M,Single,27,Own,2,Skilled,Low
-75,New Car,$166,$922,13,2,F,Divorced,24,Rent,1,Skilled,High
-76,Business,"$9,783",$885,13,3,F,Divorced,25,Own,1,Unemployed,High
-77,Business,$674,"$2,886",49,32,M,Single,29,Own,2,Skilled,Low
-78,Repairs,$0,$626,43,0,M,Single,64,Own,4,Unemployed,Low
-79,Business,"$15,328",$0,25,9,M,Single,31,Own,4,Skilled,Low
-80,New Car,$0,$904,12,6,M,Single,38,Own,4,Unskilled,Low
-81,Education,$713,$784,61,17,M,Single,41,Other,4,Skilled,High
-82,New Car,$0,$806,19,3,F,Divorced,22,Own,2,Unskilled,High
-83,Education,$0,"$3,281",19,20,F,Divorced,29,Own,2,Skilled,High
-84,New Car,$0,$759,16,59,M,Single,32,Rent,3,Skilled,High
-85,Small Appliance,$0,$680,25,3,F,Divorced,34,Own,4,Skilled,High
-86,Used Car,$0,$104,37,25,M,Single,23,Own,4,Skilled,High
-87,Small Appliance,$303,$899,13,3,M,Single,21,Own,1,Skilled,High
-88,Small Appliance,$900,"$1,732",37,11,F,Divorced,49,Other,4,Skilled,High
-89,Furniture,$0,$706,31,14,M,Divorced,31,Own,2,Skilled,Low
-90,Education,"$1,257",$0,10,65,F,Divorced,40,Rent,4,Unskilled,Low
-91,Small Appliance,$0,$576,7,14,F,Divorced,28,Own,1,Skilled,Low
-92,Repairs,$273,$904,7,2,M,Married,21,Own,1,Unskilled,Low
-93,Business,$522,$194,25,79,M,Divorced,30,Own,4,Skilled,High
-94,Small Appliance,$0,$710,25,1,F,Divorced,37,Own,3,Skilled,Low
-95,Small Appliance,$0,"$5,564",25,93,M,Single,33,Own,2,Skilled,Low
-96,Small Appliance,$0,$192,46,13,M,Single,22,Other,4,Skilled,High
-97,New Car,$0,$637,13,21,F,Divorced,23,Own,2,Unskilled,High
-98,Small Appliance,$514,$405,49,13,F,Divorced,21,Own,2,Skilled,High
-99,Furniture,$457,$318,19,108,M,Single,40,Own,1,Skilled,Low
-100,Small Appliance,"$5,133",$698,19,14,M,Single,36,Own,2,Skilled,High
-101,New Car,$0,$369,10,16,M,Single,29,Own,1,Skilled,Low
-102,Retraining,$644,$0,13,88,M,Single,37,Own,4,Skilled,Low
-103,Furniture,$305,$492,19,1,F,Divorced,26,Own,1,Skilled,Low
-104,New Car,"$9,621",$308,25,41,M,Single,37,Other,3,Skilled,High
-105,Education,$0,$127,13,22,M,Single,39,Rent,4,Unskilled,High
-106,Business,$0,$565,19,14,M,Married,27,Own,2,Skilled,High
-107,Furniture,$0,"$12,632",16,9,F,Divorced,19,Rent,4,Skilled,Low
-108,New Car,$0,$116,49,45,M,Single,45,Other,4,Skilled,High
-109,Used Car,$0,$178,13,89,M,Single,34,Other,4,Skilled,High
-110,Small Appliance,"$6,851",$901,13,21,F,Divorced,43,Rent,2,Unskilled,Low
-111,Furniture,"$13,496",$650,19,20,M,Single,33,Own,1,Unskilled,High
-112,Business,$509,$241,25,14,M,Single,35,Own,4,Unskilled,High
-113,Used Car,$0,$609,37,6,M,Single,31,Other,2,Management,Low
-114,Furniture,"$19,155",$131,25,24,M,Single,25,Own,2,Skilled,Low
-115,Furniture,$0,$544,19,15,F,Divorced,27,Own,2,Skilled,Low
-116,Small Appliance,$0,"$10,853",25,81,F,Divorced,56,Rent,4,Management,Low
-117,Used Car,$374,$0,25,14,M,Single,45,Own,4,Management,Low
-118,Large Appliance,$0,$409,49,15,M,Single,53,Own,4,Skilled,High
-119,Furniture,$828,$391,9,12,F,Divorced,23,Own,4,Skilled,High
-120,Furniture,$0,$322,13,9,F,Divorced,25,Own,1,Skilled,Low
-121,Small Appliance,$829,$583,7,18,F,Divorced,63,Own,3,Skilled,Low
-122,Small Appliance,$0,"$12,242",25,53,M,Single,34,Own,2,Skilled,High
-123,Furniture,$0,$479,19,0,M,Single,24,Own,1,Unemployed,High
-124,New Car,$939,$496,19,56,M,Single,35,Own,4,Skilled,High
-125,New Car,$0,$466,25,42,M,Single,30,Own,3,Skilled,High
-126,New Car,$889,"$1,583",37,79,M,Single,29,Other,3,Skilled,Low
-127,Furniture,$876,"$1,533",31,21,F,Divorced,20,Rent,4,Skilled,High
-128,Small Appliance,$893,$0,16,94,M,Single,49,Own,4,Skilled,Low
-129,Business,"$12,760","$4,873",13,73,M,Single,56,Rent,4,Unskilled,Low
-130,Furniture,$0,$0,13,94,M,Single,48,Rent,4,Skilled,Low
-131,Small Appliance,$0,$717,22,10,F,Divorced,24,Own,2,Skilled,High
-132,Small Appliance,$959,"$7,876",28,20,M,Single,22,Own,2,Unskilled,High
-133,Small Appliance,$0,"$4,449",25,87,M,Single,30,Own,4,Skilled,High
-134,Other,$0,$0,25,54,M,Single,39,Own,3,Management,High
-135,Business,$0,$104,25,23,M,Married,20,Own,2,Unskilled,Low
-136,Repairs,$0,$897,19,2,F,Divorced,22,Own,4,Skilled,High
-137,New Car,$698,"$4,033",16,20,M,Married,24,Rent,2,Skilled,High
-138,Furniture,$0,$945,13,6,M,Divorced,41,Own,1,Skilled,Low
-139,Furniture,$0,$836,25,99,M,Single,32,Own,4,Skilled,Low
-140,Small Appliance,$0,$325,19,13,F,Divorced,23,Own,2,Skilled,High
-141,Small Appliance,"$12,974","$19,568",13,7,F,Divorced,41,Rent,3,Skilled,Low
-142,Furniture,$0,$803,13,89,M,Single,52,Other,4,Management,High
-143,Small Appliance,$317,"$10,980",13,17,M,Single,65,Own,3,Unskilled,High
-144,Business,$0,$265,13,10,F,Divorced,26,Own,2,Skilled,Low
-145,Repairs,$0,$609,31,3,M,Divorced,33,Own,1,Unskilled,High
-146,Small Appliance,$0,"$1,851",12,0,F,Divorced,56,Own,4,Unskilled,Low
-147,Furniture,$192,$199,25,5,F,Divorced,24,Own,4,Unskilled,High
-148,New Car,$0,$500,28,7,F,Divorced,20,Rent,3,Skilled,High
-149,New Car,$0,$509,16,3,M,Single,35,Own,3,Skilled,Low
-150,Used Car,$0,$270,25,25,M,Single,34,Own,3,Skilled,Low
-151,New Car,$0,$457,13,63,M,Single,38,Own,4,Management,Low
-152,Used Car,$0,$260,25,78,M,Single,34,Own,4,Management,Low
-153,New Car,$942,"$3,036",25,36,M,Single,37,Own,3,Skilled,Low
-154,Small Appliance,$0,$643,19,6,M,Single,31,Other,2,Management,Low
-155,New Car,"$3,329",$0,19,15,M,Single,67,Rent,4,Skilled,High
-156,Used Car,$0,"$6,345",25,19,M,Single,26,Own,2,Skilled,Low
-157,Education,$0,$922,37,9,F,Divorced,24,Own,2,Management,High
-158,Furniture,$0,$909,25,3,M,Single,21,Other,1,Skilled,Low
-159,Large Appliance,$0,$775,19,8,M,Married,46,Own,3,Unskilled,High
-160,Furniture,$0,$979,25,48,M,Single,22,Rent,4,Skilled,High
-161,Furniture,$0,$948,19,2,F,Divorced,20,Rent,4,Skilled,Low
-162,Business,$339,"$2,790",22,55,M,Divorced,60,Rent,2,Unskilled,High
-163,Used Car,$0,$309,49,37,M,Single,25,Own,3,Skilled,Low
-164,Small Appliance,$0,$762,10,1,F,Divorced,21,Rent,4,Skilled,High
-165,Small Appliance,$0,$970,13,14,F,Divorced,22,Own,1,Skilled,Low
-166,Used Car,$105,$320,28,54,M,Single,29,Own,2,Management,Low
-167,Small Appliance,$0,$861,13,111,M,Single,56,Own,4,Unskilled,High
-168,Repairs,$216,$262,37,2,M,Single,32,Rent,1,Unskilled,High
-169,Furniture,$113,$692,11,14,M,Divorced,30,Own,2,Unskilled,Low
-170,Used Car,$109,$540,37,1,M,Married,27,Rent,4,Management,High
-171,New Car,$0,$470,13,0,F,Divorced,37,Own,2,Unemployed,Low
-172,New Car,$0,$192,7,2,M,Single,39,Own,4,Unskilled,Low
-173,New Car,"$8,176","$12,230",7,5,M,Married,26,Own,2,Unemployed,Low
-174,Repairs,$0,$772,25,19,M,Divorced,32,Own,2,Skilled,Low
-175,Furniture,$468,"$14,186",22,24,M,Single,31,Own,2,Skilled,Low
-176,Used Car,"$7,885","$6,330",16,14,M,Single,35,Own,2,Skilled,Low
-177,Small Appliance,$0,"$18,716",19,93,M,Single,31,Own,3,Management,Low
-178,New Car,$0,$886,22,96,M,Single,64,Own,4,Skilled,Low
-179,Business,$0,$750,37,2,M,Divorced,27,Own,1,Skilled,High
-180,Small Appliance,$0,"$3,870",25,11,F,Divorced,31,Own,2,Unskilled,High
-181,Small Appliance,$0,"$3,273",13,4,M,Married,32,Own,3,Unskilled,High
-182,Business,$0,$406,6,35,M,Single,73,Own,4,Unskilled,Low
-183,Furniture,$0,$461,13,48,F,Divorced,30,Own,4,Unskilled,Low
-184,Furniture,$0,$340,19,4,M,Married,42,Own,1,Unskilled,High
-185,Small Appliance,$0,"$6,490",19,85,M,Single,45,Own,4,Skilled,Low
-186,Small Appliance,$734,$348,7,100,M,Single,27,Own,4,Skilled,Low
-187,Furniture,$0,$506,25,3,F,Divorced,22,Rent,4,Unskilled,High
-188,Used Car,$0,"$14,717",28,7,M,Single,26,Own,2,Skilled,Low
-189,Business,$172,$0,25,36,M,Single,33,Own,3,Skilled,Low
-190,New Car,$644,"$1,571",19,1,F,Divorced,27,Own,3,Skilled,High
-191,New Car,$0,$0,25,19,F,Divorced,24,Rent,4,Skilled,High
-192,Furniture,$617,$411,31,3,M,Married,21,Own,1,Skilled,Low
-193,New Car,$0,$544,25,0,F,Divorced,28,Rent,4,Unemployed,High
-194,Small Appliance,$586,$0,13,0,M,Single,51,Own,1,Management,High
-195,Furniture,$0,$835,19,42,F,Divorced,21,Own,1,Skilled,High
-196,Small Appliance,$0,$823,25,47,M,Single,27,Own,2,Skilled,Low
-197,Business,$0,"$5,180",22,4,M,Single,40,Own,2,Unskilled,High
-198,Small Appliance,$0,$408,16,12,M,Single,34,Other,4,Skilled,Low
-199,New Car,$0,$821,48,5,F,Divorced,34,Own,1,Unskilled,Low
-200,Education,$522,$385,10,66,M,Single,63,Own,4,Unskilled,Low
-201,New Car,$585,"$2,223",16,0,M,Single,33,Own,2,Management,High
-202,New Car,"$5,588",$0,22,10,F,Divorced,28,Own,4,Skilled,High
-203,New Car,$0,$605,37,20,F,Divorced,24,Own,2,Skilled,High
-204,Furniture,$352,"$7,525",13,4,F,Divorced,18,Rent,4,Unskilled,Low
-205,Small Appliance,$0,"$3,529",14,0,F,Divorced,63,Own,4,Skilled,Low
-206,Business,"$2,715","$1,435",49,14,M,Divorced,37,Own,2,Skilled,High
-207,Other,$560,$887,25,20,M,Single,38,Own,3,Management,High
-208,Small Appliance,$895,$243,13,4,M,Married,22,Rent,1,Skilled,High
-209,New Car,$305,"$4,553",7,2,F,Divorced,31,Own,1,Unskilled,High
-210,Small Appliance,$0,$418,19,4,M,Single,31,Own,2,Skilled,Low
-211,New Car,$0,$771,25,0,M,Single,42,Other,2,Skilled,High
-212,Furniture,$0,$463,11,13,M,Single,24,Rent,2,Unskilled,High
-213,Business,"$8,948",$110,31,90,M,Single,65,Own,4,Management,High
-214,Used Car,$0,"$10,099",16,108,M,Single,22,Rent,4,Skilled,Low
-215,Used Car,$0,"$13,428",7,0,F,Divorced,22,Rent,2,Unemployed,Low
-216,Small Appliance,$0,$208,13,23,M,Single,51,Own,4,Skilled,Low
-217,Small Appliance,$0,$552,13,15,F,Divorced,23,Own,4,Unskilled,High
-218,Education,$0,"$3,105",16,19,F,Divorced,30,Own,3,Skilled,Low
-219,Small Appliance,$483,$415,19,6,M,Married,32,Own,2,Skilled,High
-220,Large Appliance,$0,"$1,238",13,0,F,Divorced,21,Own,3,Skilled,High
-221,Education,$0,$238,13,2,F,Divorced,52,Own,4,Skilled,High
-222,Furniture,$0,$127,31,35,F,Divorced,22,Rent,4,Skilled,High
-223,Business,$663,$0,19,57,M,Single,41,Own,2,Skilled,Low
-224,New Car,$624,$785,37,9,F,Divorced,53,Rent,2,Skilled,Low
-225,Repairs,$0,$718,19,0,F,Divorced,54,Other,4,Unemployed,High
-226,Furniture,$0,$493,13,21,M,Single,37,Own,3,Unskilled,Low
-227,Small Appliance,$152,$757,49,45,M,Single,27,Own,4,Skilled,High
-228,New Car,$0,"$9,125",13,24,F,Divorced,25,Own,2,Skilled,High
-229,Small Appliance,$0,$364,13,12,F,Divorced,34,Own,2,Skilled,Low
-230,Business,$498,$598,37,14,M,Divorced,29,Own,2,Management,High
-231,New Car,$0,$374,10,19,M,Single,27,Own,3,Unskilled,High
-232,Small Appliance,$156,$0,13,58,F,Divorced,32,Own,3,Unskilled,High
-233,Used Car,"$1,336",$0,37,11,M,Single,29,Own,2,Management,Low
-234,New Car,$0,$508,13,3,M,Single,32,Own,1,Unskilled,High
-235,Small Appliance,$0,$956,25,4,F,Divorced,28,Rent,2,Unskilled,High
-236,Furniture,$0,$636,22,41,F,Divorced,25,Rent,4,Unskilled,Low
-237,New Car,"$2,641",$0,13,71,F,Divorced,51,Other,4,Management,Low
-238,Used Car,$0,"$1,519",40,74,M,Single,44,Own,2,Management,Low
-239,Business,$0,$922,19,29,M,Single,33,Own,1,Skilled,Low
-240,Furniture,$0,$180,5,2,F,Divorced,22,Rent,3,Unskilled,Low
-241,Used Car,$0,$701,22,108,M,Single,35,Own,4,Management,Low
-242,Small Appliance,$0,$296,16,8,M,Single,30,Own,2,Skilled,Low
-243,Small Appliance,$887,$519,7,42,M,Married,27,Own,3,Unskilled,Low
-244,Business,$0,$800,49,2,F,Divorced,23,Rent,4,Skilled,High
-245,Furniture,$0,$736,13,6,F,Divorced,19,Rent,4,Skilled,High
-246,Small Appliance,$0,"$11,838",7,70,M,Single,44,Own,4,Unskilled,Low
-247,Small Appliance,$0,$364,5,35,M,Single,41,Own,1,Unskilled,Low
-248,New Car,"$18,408",$212,13,9,F,Divorced,35,Own,2,Skilled,Low
-249,New Car,$497,$888,16,3,F,Divorced,25,Rent,1,Unemployed,High
-250,Used Car,$0,$999,25,0,M,Single,28,Other,2,Management,Low
-251,Small Appliance,$946,$0,16,83,M,Single,34,Own,2,Skilled,Low
-252,Business,$986,$578,28,1,F,Divorced,31,Own,1,Skilled,Low
-253,Education,"$8,122",$136,22,4,M,Divorced,32,Rent,1,Skilled,High
-254,Furniture,$0,$734,37,111,M,Single,41,Own,2,Skilled,High
-255,Business,$778,$861,49,21,M,Single,22,Own,2,Skilled,High
-256,Other,$645,$855,25,17,M,Single,28,Own,3,Management,High
-257,Furniture,$0,"$4,486",10,3,F,Divorced,21,Rent,4,Skilled,Low
-258,New Car,$682,"$2,017",37,85,M,Single,41,Own,4,Management,High
-259,New Car,"$19,812",$0,25,37,M,Single,36,Own,2,Unskilled,High
-260,Business,$0,$500,25,1,M,Single,26,Own,2,Skilled,High
-261,Used Car,$0,$859,31,89,M,Single,37,Other,4,Management,Low
-262,Business,$859,"$3,305",25,26,M,Single,35,Rent,4,Management,Low
-263,Small Appliance,$0,"$1,218",13,38,M,Single,34,Own,1,Skilled,Low
-264,New Car,$0,"$9,016",49,22,M,Single,43,Other,2,Skilled,High
-265,New Car,$0,"$11,587",22,46,F,Divorced,30,Own,2,Management,Low
-266,Furniture,$0,"$8,944",25,66,M,Single,31,Rent,3,Skilled,Low
-267,Repairs,$0,$807,25,75,M,Single,43,Other,4,Skilled,Low
-268,Small Appliance,$0,$867,31,27,F,Divorced,24,Own,2,Skilled,Low
-269,Small Appliance,$795,"$16,804",49,40,M,Single,26,Own,2,Skilled,High
-270,Furniture,$0,$347,16,5,F,Divorced,45,Rent,1,Skilled,Low
-271,Furniture,$0,$836,16,4,M,Single,26,Own,3,Unskilled,Low
-272,Furniture,$0,$142,7,53,F,Divorced,48,Own,1,Skilled,Low
-273,Furniture,$0,$169,19,6,M,Single,43,Own,3,Skilled,High
-274,Other,$852,"$3,613",61,83,F,Divorced,59,Other,4,Management,High
-275,Education,$0,$403,7,5,F,Divorced,55,Own,2,Skilled,Low
-276,Small Appliance,$0,$836,25,0,M,Single,29,Own,2,Management,High
-277,New Car,$425,$0,19,7,F,Divorced,32,Own,2,Skilled,High
-278,Business,$0,"$11,481",25,18,M,Single,53,Own,3,Management,High
-279,Business,$0,"$3,285",7,21,M,Single,33,Own,2,Unskilled,Low
-280,Education,$0,$164,13,65,F,Divorced,56,Other,4,Unskilled,Low
-281,New Car,"$11,072",$891,61,17,M,Single,33,Other,4,Skilled,Low
-282,Used Car,$0,$0,37,49,M,Single,46,Other,4,Skilled,High
-283,Used Car,$219,$841,43,0,M,Single,54,Other,2,Management,Low
-284,New Car,"$8,060",$607,19,71,F,Divorced,22,Own,2,Management,Low
-285,New Car,$0,$486,12,22,M,Single,35,Rent,2,Skilled,Low
-286,New Car,$0,$108,25,52,M,Single,46,Own,4,Unskilled,High
-287,Small Appliance,$0,$0,43,28,F,Divorced,29,Own,3,Management,High
-288,New Car,$0,$113,25,31,F,Divorced,22,Rent,4,Skilled,High
-289,New Car,"$1,613",$0,25,118,M,Married,53,Own,4,Skilled,Low
-290,Furniture,$757,$208,25,36,M,Divorced,42,Own,3,Skilled,High
-291,Retraining,$0,$603,13,35,M,Married,20,Rent,4,Skilled,High
-292,New Car,$0,$343,19,22,F,Divorced,35,Own,3,Skilled,Low
-293,Education,$977,$463,10,61,F,Divorced,33,Own,3,Management,High
-294,Education,$197,$0,37,17,M,Married,26,Own,2,Skilled,Low
-295,Furniture,$0,$299,19,11,M,Single,46,Other,4,Skilled,Low
-296,New Car,$0,$490,13,15,F,Divorced,28,Own,2,Skilled,High
-297,Small Appliance,$0,"$6,628",37,65,M,Single,38,Own,4,Skilled,Low
-298,Business,$0,$859,19,23,M,Single,35,Own,2,Skilled,High
-299,New Car,$0,$750,13,14,M,Single,47,Own,4,Skilled,High
-300,Small Appliance,$256,$954,10,13,M,Single,23,Own,3,Skilled,Low
-301,New Car,$296,$591,37,103,M,Single,56,Other,4,Skilled,High
-302,Furniture,$0,"$13,970",13,24,F,Divorced,28,Rent,4,Unskilled,High
-303,New Car,$0,$857,11,34,M,Single,48,Own,3,Skilled,Low
-304,Furniture,$0,"$5,857",19,20,M,Single,27,Own,2,Skilled,Low
-305,Small Appliance,$298,"$3,326",73,15,M,Married,23,Own,2,Skilled,High
-306,Small Appliance,$0,$726,19,7,F,Divorced,24,Rent,4,Skilled,High
-307,Furniture,"$8,636",$214,11,3,F,Divorced,22,Own,2,Skilled,Low
-308,New Car,$0,$207,13,119,M,Single,42,Rent,4,Skilled,High
-309,New Car,$0,$713,13,29,M,Single,25,Own,2,Skilled,High
-310,New Car,"$19,766","$2,141",11,54,F,Divorced,47,Other,4,Unskilled,High
-311,New Car,$0,$483,19,90,F,Divorced,32,Rent,4,Skilled,High
-312,New Car,$0,$127,7,13,M,Single,25,Rent,3,Skilled,Low
-313,Furniture,$0,$367,37,22,M,Single,36,Own,2,Skilled,Low
-314,Small Appliance,$0,$813,43,28,M,Single,25,Own,2,Skilled,High
-315,Furniture,"$4,089",$0,7,14,M,Married,26,Own,2,Skilled,Low
-316,New Car,$0,$102,7,0,F,Divorced,53,Own,4,Unemployed,Low
-317,Repairs,$271,$759,19,0,F,Divorced,66,Own,4,Skilled,Low
-318,New Car,$949,$0,49,36,F,Divorced,23,Own,2,Skilled,Low
-319,Small Appliance,$0,$503,13,62,M,Single,25,Own,2,Skilled,Low
-320,Small Appliance,$911,$823,46,4,M,Single,24,Own,2,Unskilled,High
-321,New Car,$0,$693,19,28,M,Single,31,Other,4,Unskilled,High
-322,Used Car,$0,$973,49,81,F,Divorced,57,Other,4,Unskilled,High
-323,New Car,$0,$648,15,57,M,Divorced,44,Own,4,Management,High
-324,Other,$0,$523,37,0,M,Divorced,42,Own,3,Management,Low
-325,Used Car,$271,"$7,090",25,2,F,Divorced,27,Rent,4,Skilled,High
-326,Small Appliance,$0,$596,13,67,M,Single,51,Own,4,Skilled,Low
-327,Used Car,$0,$904,49,119,M,Single,23,Other,4,Skilled,High
-328,New Car,$0,$541,19,13,M,Single,31,Own,2,Skilled,High
-329,Furniture,$0,$154,37,2,F,Divorced,22,Rent,4,Skilled,High
-330,New Car,"$4,802",$0,37,12,M,Single,35,Own,4,Skilled,Low
-331,Business,$177,$0,49,9,M,Single,37,Other,4,Skilled,Low
-332,Small Appliance,$0,$337,25,107,M,Single,35,Own,1,Management,Low
-333,New Car,$0,$716,19,33,M,Single,30,Own,2,Skilled,High
-334,Education,$996,$837,49,83,M,Single,49,Other,4,Skilled,High
-335,Education,$705,$0,25,24,F,Divorced,32,Own,2,Skilled,Low
-336,Furniture,$0,"$7,710",25,114,M,Single,52,Own,4,Skilled,Low
-337,New Car,$0,$531,13,5,M,Single,45,Own,2,Skilled,High
-338,Small Appliance,"$5,960",$129,13,16,M,Married,23,Own,1,Skilled,Low
-339,Furniture,$0,$941,13,111,M,Single,41,Own,4,Skilled,Low
-340,Furniture,$759,$596,10,18,F,Divorced,28,Own,2,Skilled,High
-341,Furniture,$0,$987,37,101,M,Single,30,Own,4,Skilled,High
-342,Small Appliance,$651,$0,37,102,M,Single,50,Own,2,Skilled,Low
-343,Business,$257,$460,49,75,F,Divorced,58,Rent,3,Skilled,High
-344,Small Appliance,$955,$0,49,29,M,Single,36,Own,3,Skilled,Low
-345,Small Appliance,$0,$798,25,42,M,Single,23,Rent,4,Unskilled,High
-346,Small Appliance,"$8,249",$0,31,77,M,Single,48,Own,4,Unskilled,Low
-347,Small Appliance,$0,$959,11,21,M,Single,37,Own,4,Skilled,Low
-348,Small Appliance,$956,"$1,482",46,19,M,Single,20,Rent,4,Skilled,High
-349,New Car,$382,$883,31,20,F,Divorced,23,Own,2,Skilled,High
-350,Furniture,$0,"$12,721",37,31,F,Divorced,39,Own,4,Skilled,Low
-351,Education,$842,$0,37,9,M,Single,34,Other,4,Unskilled,Low
-352,Repairs,"$3,111",$0,13,27,F,Divorced,22,Own,4,Skilled,Low
-353,Small Appliance,$0,$302,10,30,M,Single,21,Own,2,Skilled,High
-354,Furniture,$0,$538,25,59,M,Single,38,Rent,2,Management,High
-355,Small Appliance,"$2,846",$0,13,14,M,Single,36,Other,4,Skilled,Low
-356,Small Appliance,$231,$702,10,99,M,Single,26,Own,4,Unskilled,Low
-357,Repairs,$0,"$2,688",10,89,M,Single,47,Own,4,Skilled,Low
-358,Small Appliance,"$17,366",$0,16,21,M,Single,38,Other,4,Skilled,High
-359,Small Appliance,$0,$425,13,10,M,Single,27,Rent,2,Skilled,High
-360,New Car,$332,$214,25,2,M,Single,25,Own,1,Skilled,Low
-361,Small Appliance,$242,$0,19,6,M,Single,28,Own,3,Skilled,Low
-362,New Car,$0,$272,7,90,M,Single,67,Own,4,Management,High
-363,Business,$929,$124,9,1,M,Married,25,Own,2,Skilled,Low
-364,Small Appliance,$0,"$17,124",13,95,M,Married,34,Own,1,Skilled,Low
-365,Used Car,$0,$612,49,32,M,Single,38,Other,4,Skilled,High
-366,New Car,$0,$862,49,62,M,Single,41,Other,4,Management,High
-367,Furniture,$0,$146,25,46,M,Single,26,Own,4,Skilled,High
-368,New Car,$0,"$14,190",37,92,M,Single,35,Own,4,Skilled,Low
-369,Used Car,$0,$396,49,73,M,Single,45,Other,4,Skilled,High
-370,Small Appliance,$0,$519,31,23,F,Divorced,32,Own,2,Skilled,Low
-371,Used Car,$646,$0,25,9,M,Divorced,47,Other,4,Skilled,Low
-372,New Car,$538,$344,13,40,M,Married,24,Own,3,Unskilled,High
-373,Furniture,$0,$204,31,5,M,Divorced,30,Own,4,Unskilled,High
-374,Small Appliance,$0,$148,43,2,M,Single,33,Own,3,Skilled,High
-375,Furniture,$0,$435,19,16,F,Divorced,23,Rent,4,Skilled,High
-376,Small Appliance,$0,$914,19,0,F,Divorced,21,Rent,4,Skilled,High
-377,New Car,$135,$0,37,7,M,Single,36,Other,4,Skilled,High
-378,Used Car,"$2,472",$0,37,41,M,Single,30,Own,2,Management,Low
-379,New Car,$0,$412,25,22,M,Single,52,Other,4,Skilled,High
-380,New Car,"$10,417","$19,811",13,27,M,Married,27,Own,2,Skilled,High
-381,Small Appliance,$211,$822,8,5,F,Divorced,44,Own,1,Skilled,Low
-382,Small Appliance,"$16,630",$0,11,47,M,Single,26,Own,2,Skilled,Low
-383,Furniture,$0,"$3,369",25,17,M,Single,24,Own,1,Skilled,Low
-384,Furniture,$642,$0,13,65,F,Divorced,24,Own,2,Skilled,High
-385,Small Appliance,$0,$707,7,26,M,Single,50,Own,2,Skilled,Low
-386,Small Appliance,$296,$818,19,93,M,Married,31,Own,2,Unskilled,Low
-387,Business,$898,$177,22,105,F,Divorced,38,Own,4,Skilled,High
-388,New Car,$478,"$4,071",10,40,M,Single,28,Own,3,Skilled,High
-389,New Car,$315,$466,13,3,M,Single,48,Own,3,Unskilled,Low
-390,New Car,$122,$460,37,109,M,Single,56,Other,2,Management,High
-391,Furniture,$0,$991,7,3,F,Divorced,31,Own,4,Skilled,High
-392,Small Appliance,$0,"$17,653",22,4,F,Divorced,28,Own,2,Skilled,Low
-393,Education,$0,$497,41,24,M,Single,26,Own,3,Skilled,High
-394,Business,$670,"$4,014",31,21,F,Divorced,25,Rent,4,Unskilled,High
-395,Business,$444,$921,28,51,F,Divorced,41,Other,4,Management,High
-396,New Car,"$3,880",$0,23,37,F,Divorced,24,Rent,4,Skilled,Low
-397,Used Car,$819,$0,13,23,M,Single,29,Own,2,Skilled,Low
-398,Used Car,$0,$607,37,17,M,Single,25,Own,2,Skilled,High
-399,Large Appliance,$0,"$15,800",16,40,M,Single,35,Own,3,Skilled,Low
-400,Furniture,$0,$369,7,23,M,Single,35,Own,2,Unskilled,Low
-401,Business,$0,"$4,973",25,17,M,Single,26,Own,3,Unskilled,Low
-402,Furniture,$0,$0,40,30,M,Single,29,Own,4,Management,Low
-403,New Car,$0,$761,25,92,M,Single,59,Own,4,Unskilled,High
-404,Education,$0,$471,7,52,F,Divorced,34,Other,4,Skilled,High
-405,Used Car,$0,$674,37,69,M,Single,41,Other,4,Skilled,Low
-406,New Car,$0,$547,13,40,M,Divorced,35,Own,3,Skilled,High
-407,Furniture,$161,$524,13,106,M,Single,27,Rent,4,Skilled,Low
-408,Furniture,$0,$815,19,13,M,Single,41,Own,3,Skilled,High
-409,Used Car,$0,$0,11,4,F,Divorced,30,Rent,4,Skilled,Low
-410,New Car,$789,$989,31,0,M,Married,27,Own,2,Management,High
-411,Small Appliance,$765,"$10,406",10,24,F,Divorced,65,Own,3,Unskilled,Low
-412,Furniture,$0,$957,19,11,F,Divorced,19,Rent,4,Skilled,High
-413,New Car,$0,$770,37,3,F,Divorced,33,Own,4,Skilled,High
-414,Furniture,$983,$950,13,5,F,Divorced,24,Rent,3,Skilled,High
-415,Used Car,$0,$160,13,7,M,Married,40,Rent,4,Skilled,Low
-416,Used Car,$0,$276,25,91,M,Single,62,Own,4,Skilled,Low
-417,Education,$798,$137,25,25,F,Divorced,33,Other,4,Unskilled,High
-418,New Car,$0,$579,22,70,M,Married,29,Own,3,Skilled,Low
-419,New Car,$193,"$2,684",13,5,F,Divorced,22,Own,2,Unskilled,High
-420,Small Appliance,$497,$0,7,51,M,Single,35,Other,4,Skilled,Low
-421,Furniture,$0,$0,31,53,M,Single,30,Own,4,Skilled,High
-422,New Car,$0,$0,25,103,F,Divorced,28,Own,2,Skilled,High
-423,New Car,$0,$712,16,6,F,Divorced,28,Own,2,Skilled,High
-424,New Car,$0,$912,7,39,M,Single,44,Own,3,Management,Low
+0,Small Appliance,0,739,13,12,M,Single,23,Own,3,Unskilled,Low
+1,Furniture,0,1230,25,0,M,Divorced,32,Own,1,Skilled,High
+2,New Car,0,389,19,119,M,Single,38,Own,4,Management,High
+3,Furniture,638,347,13,14,M,Single,36,Own,2,Unskilled,High
+4,Education,963,4754,40,45,M,Single,31,Rent,3,Skilled,Low
+5,Furniture,2827,0,11,13,M,Married,25,Own,1,Skilled,Low
+6,New Car,0,229,13,16,M,Married,26,Own,3,Unskilled,Low
+7,Business,0,533,14,2,M,Single,27,Own,1,Unskilled,Low
+8,Small Appliance,6509,493,37,9,M,Single,25,Own,2,Skilled,High
+9,Small Appliance,966,0,25,4,F,Divorced,43,Own,1,Skilled,High
+10,Business,0,989,49,0,M,Single,32,Rent,2,Management,High
+11,New Car,0,3305,11,15,M,Single,34,Rent,2,Unskilled,Low
+12,Business,322,578,10,14,M,Married,26,Own,1,Skilled,Low
+13,New Car,0,821,25,63,M,Single,44,Own,1,Skilled,High
+14,New Car,396,228,13,26,M,Single,46,Own,3,Unskilled,Low
+15,Used Car,0,129,31,8,M,Divorced,39,Own,4,Management,Low
+16,Furniture,652,732,49,4,F,Divorced,25,Own,2,Skilled,High
+17,New Car,708,683,13,33,M,Single,31,Own,2,Skilled,Low
+18,Repairs,207,0,28,116,M,Single,47,Own,4,Skilled,Low
+19,Education,287,12348,7,2,F,Divorced,23,Rent,2,Skilled,High
+20,Furniture,0,17545,34,16,F,Divorced,22,Own,4,Skilled,High
+21,Furniture,101,3871,13,5,F,Divorced,26,Rent,4,Skilled,High
+22,Furniture,0,0,25,23,M,Married,19,Own,4,Skilled,High
+23,Furniture,0,485,37,23,F,Divorced,27,Own,2,Management,High
+24,New Car,0,10723,11,15,M,Single,39,Rent,2,Unskilled,Low
+25,Business,141,245,22,33,M,Single,26,Own,3,Skilled,Low
+26,Used Car,0,0,19,58,M,Single,50,Other,4,Skilled,High
+27,Used Car,2484,0,49,46,M,Single,34,Other,1,Skilled,Low
+28,Small Appliance,237,236,37,24,M,Single,23,Rent,4,Skilled,Low
+29,Small Appliance,0,485,19,12,M,Single,23,Own,2,Skilled,Low
+30,Education,335,1708,37,7,M,Single,46,Other,4,Skilled,High
+31,Small Appliance,3565,0,31,32,M,Single,35,Own,3,Skilled,Low
+32,Small Appliance,0,407,13,2,F,Divorced,28,Own,2,Skilled,Low
+33,Business,16647,895,16,34,M,Single,25,Rent,4,Skilled,Low
+34,Business,0,150,49,46,F,Divorced,36,Rent,4,Skilled,High
+35,Small Appliance,0,490,5,41,M,Single,41,Own,1,Unskilled,Low
+36,Furniture,0,162,25,1,M,Divorced,54,Own,1,Skilled,High
+37,Small Appliance,940,715,9,40,F,Divorced,43,Own,2,Unskilled,Low
+38,Small Appliance,0,323,49,42,M,Married,33,Own,1,Skilled,High
+39,New Car,0,128,13,74,M,Single,34,Own,3,Skilled,High
+40,Other,218,0,49,0,M,Single,39,Other,4,Unemployed,Low
+41,Used Car,0,109,25,26,M,Single,34,Own,3,Unskilled,Low
+42,Small Appliance,16935,189,37,60,M,Single,30,Own,2,Skilled,Low
+43,Furniture,664,537,31,33,M,Single,48,Own,2,Skilled,High
+44,Furniture,150,6520,12,1,F,Divorced,19,Own,1,Skilled,Low
+45,Small Appliance,0,138,7,119,M,Married,29,Rent,2,Skilled,Low
+46,Furniture,216,0,19,3,F,Divorced,26,Rent,3,Skilled,High
+47,New Car,0,660,17,75,M,Single,42,Rent,4,Skilled,High
+48,Business,0,724,25,8,M,Single,30,Rent,2,Skilled,High
+49,Small Appliance,0,897,19,5,M,Married,38,Own,4,Skilled,Low
+50,Small Appliance,265,947,25,5,M,Married,21,Own,1,Skilled,High
+51,Furniture,4256,0,16,36,F,Divorced,32,Rent,4,Unskilled,Low
+52,Business,870,917,28,6,M,Single,35,Own,2,Skilled,High
+53,New Car,162,595,22,10,M,Divorced,46,Own,4,Skilled,Low
+54,Used Car,0,789,25,28,M,Single,37,Own,3,Management,Low
+55,Education,0,0,37,114,M,Single,39,Own,4,Management,High
+56,Furniture,0,746,13,16,F,Divorced,29,Own,3,Skilled,Low
+57,New Car,461,140,19,32,M,Single,27,Rent,3,Unskilled,Low
+58,New Car,0,659,19,5,F,Divorced,22,Rent,3,Skilled,High
+59,Furniture,0,717,37,60,M,Single,40,Own,2,Skilled,High
+60,New Car,0,667,29,10,M,Single,44,Own,2,Unskilled,High
+61,New Car,580,0,11,8,M,Single,26,Own,4,Unskilled,High
+62,Small Appliance,0,763,13,46,F,Divorced,57,Own,3,Unskilled,Low
+63,New Car,0,1366,19,17,M,Single,34,Own,4,Unskilled,Low
+64,Small Appliance,0,552,25,4,M,Married,47,Own,4,Skilled,High
+65,Small Appliance,0,14643,16,115,M,Single,46,Own,3,Skilled,Low
+66,Business,758,2665,13,31,M,Single,38,Own,4,Unskilled,Low
+67,Used Car,399,0,31,0,F,Divorced,52,Own,1,Management,High
+68,Furniture,513,442,7,0,M,Single,34,Own,1,Management,Low
+69,Furniture,0,8357,25,5,M,Single,29,Other,4,Skilled,High
+70,New Car,0,0,22,9,M,Single,39,Own,2,Unskilled,High
+71,Small Appliance,565,863,10,81,M,Single,36,Own,4,Unskilled,Low
+72,Business,0,322,28,28,M,Single,25,Own,4,Skilled,Low
+73,Furniture,0,800,13,69,M,Single,59,Own,3,Skilled,High
+74,Small Appliance,0,656,37,85,M,Single,27,Own,2,Skilled,Low
+75,New Car,166,922,13,2,F,Divorced,24,Rent,1,Skilled,High
+76,Business,9783,885,13,3,F,Divorced,25,Own,1,Unemployed,High
+77,Business,674,2886,49,32,M,Single,29,Own,2,Skilled,Low
+78,Repairs,0,626,43,0,M,Single,64,Own,4,Unemployed,Low
+79,Business,15328,0,25,9,M,Single,31,Own,4,Skilled,Low
+80,New Car,0,904,12,6,M,Single,38,Own,4,Unskilled,Low
+81,Education,713,784,61,17,M,Single,41,Other,4,Skilled,High
+82,New Car,0,806,19,3,F,Divorced,22,Own,2,Unskilled,High
+83,Education,0,3281,19,20,F,Divorced,29,Own,2,Skilled,High
+84,New Car,0,759,16,59,M,Single,32,Rent,3,Skilled,High
+85,Small Appliance,0,680,25,3,F,Divorced,34,Own,4,Skilled,High
+86,Used Car,0,104,37,25,M,Single,23,Own,4,Skilled,High
+87,Small Appliance,303,899,13,3,M,Single,21,Own,1,Skilled,High
+88,Small Appliance,900,1732,37,11,F,Divorced,49,Other,4,Skilled,High
+89,Furniture,0,706,31,14,M,Divorced,31,Own,2,Skilled,Low
+90,Education,1257,0,10,65,F,Divorced,40,Rent,4,Unskilled,Low
+91,Small Appliance,0,576,7,14,F,Divorced,28,Own,1,Skilled,Low
+92,Repairs,273,904,7,2,M,Married,21,Own,1,Unskilled,Low
+93,Business,522,194,25,79,M,Divorced,30,Own,4,Skilled,High
+94,Small Appliance,0,710,25,1,F,Divorced,37,Own,3,Skilled,Low
+95,Small Appliance,0,5564,25,93,M,Single,33,Own,2,Skilled,Low
+96,Small Appliance,0,192,46,13,M,Single,22,Other,4,Skilled,High
+97,New Car,0,637,13,21,F,Divorced,23,Own,2,Unskilled,High
+98,Small Appliance,514,405,49,13,F,Divorced,21,Own,2,Skilled,High
+99,Furniture,457,318,19,108,M,Single,40,Own,1,Skilled,Low
+100,Small Appliance,5133,698,19,14,M,Single,36,Own,2,Skilled,High
+101,New Car,0,369,10,16,M,Single,29,Own,1,Skilled,Low
+102,Retraining,644,0,13,88,M,Single,37,Own,4,Skilled,Low
+103,Furniture,305,492,19,1,F,Divorced,26,Own,1,Skilled,Low
+104,New Car,9621,308,25,41,M,Single,37,Other,3,Skilled,High
+105,Education,0,127,13,22,M,Single,39,Rent,4,Unskilled,High
+106,Business,0,565,19,14,M,Married,27,Own,2,Skilled,High
+107,Furniture,0,12632,16,9,F,Divorced,19,Rent,4,Skilled,Low
+108,New Car,0,116,49,45,M,Single,45,Other,4,Skilled,High
+109,Used Car,0,178,13,89,M,Single,34,Other,4,Skilled,High
+110,Small Appliance,6851,901,13,21,F,Divorced,43,Rent,2,Unskilled,Low
+111,Furniture,13496,650,19,20,M,Single,33,Own,1,Unskilled,High
+112,Business,509,241,25,14,M,Single,35,Own,4,Unskilled,High
+113,Used Car,0,609,37,6,M,Single,31,Other,2,Management,Low
+114,Furniture,19155,131,25,24,M,Single,25,Own,2,Skilled,Low
+115,Furniture,0,544,19,15,F,Divorced,27,Own,2,Skilled,Low
+116,Small Appliance,0,10853,25,81,F,Divorced,56,Rent,4,Management,Low
+117,Used Car,374,0,25,14,M,Single,45,Own,4,Management,Low
+118,Large Appliance,0,409,49,15,M,Single,53,Own,4,Skilled,High
+119,Furniture,828,391,9,12,F,Divorced,23,Own,4,Skilled,High
+120,Furniture,0,322,13,9,F,Divorced,25,Own,1,Skilled,Low
+121,Small Appliance,829,583,7,18,F,Divorced,63,Own,3,Skilled,Low
+122,Small Appliance,0,12242,25,53,M,Single,34,Own,2,Skilled,High
+123,Furniture,0,479,19,0,M,Single,24,Own,1,Unemployed,High
+124,New Car,939,496,19,56,M,Single,35,Own,4,Skilled,High
+125,New Car,0,466,25,42,M,Single,30,Own,3,Skilled,High
+126,New Car,889,1583,37,79,M,Single,29,Other,3,Skilled,Low
+127,Furniture,876,1533,31,21,F,Divorced,20,Rent,4,Skilled,High
+128,Small Appliance,893,0,16,94,M,Single,49,Own,4,Skilled,Low
+129,Business,12760,4873,13,73,M,Single,56,Rent,4,Unskilled,Low
+130,Furniture,0,0,13,94,M,Single,48,Rent,4,Skilled,Low
+131,Small Appliance,0,717,22,10,F,Divorced,24,Own,2,Skilled,High
+132,Small Appliance,959,7876,28,20,M,Single,22,Own,2,Unskilled,High
+133,Small Appliance,0,4449,25,87,M,Single,30,Own,4,Skilled,High
+134,Other,0,0,25,54,M,Single,39,Own,3,Management,High
+135,Business,0,104,25,23,M,Married,20,Own,2,Unskilled,Low
+136,Repairs,0,897,19,2,F,Divorced,22,Own,4,Skilled,High
+137,New Car,698,4033,16,20,M,Married,24,Rent,2,Skilled,High
+138,Furniture,0,945,13,6,M,Divorced,41,Own,1,Skilled,Low
+139,Furniture,0,836,25,99,M,Single,32,Own,4,Skilled,Low
+140,Small Appliance,0,325,19,13,F,Divorced,23,Own,2,Skilled,High
+141,Small Appliance,12974,19568,13,7,F,Divorced,41,Rent,3,Skilled,Low
+142,Furniture,0,803,13,89,M,Single,52,Other,4,Management,High
+143,Small Appliance,317,10980,13,17,M,Single,65,Own,3,Unskilled,High
+144,Business,0,265,13,10,F,Divorced,26,Own,2,Skilled,Low
+145,Repairs,0,609,31,3,M,Divorced,33,Own,1,Unskilled,High
+146,Small Appliance,0,1851,12,0,F,Divorced,56,Own,4,Unskilled,Low
+147,Furniture,192,199,25,5,F,Divorced,24,Own,4,Unskilled,High
+148,New Car,0,500,28,7,F,Divorced,20,Rent,3,Skilled,High
+149,New Car,0,509,16,3,M,Single,35,Own,3,Skilled,Low
+150,Used Car,0,270,25,25,M,Single,34,Own,3,Skilled,Low
+151,New Car,0,457,13,63,M,Single,38,Own,4,Management,Low
+152,Used Car,0,260,25,78,M,Single,34,Own,4,Management,Low
+153,New Car,942,3036,25,36,M,Single,37,Own,3,Skilled,Low
+154,Small Appliance,0,643,19,6,M,Single,31,Other,2,Management,Low
+155,New Car,3329,0,19,15,M,Single,67,Rent,4,Skilled,High
+156,Used Car,0,6345,25,19,M,Single,26,Own,2,Skilled,Low
+157,Education,0,922,37,9,F,Divorced,24,Own,2,Management,High
+158,Furniture,0,909,25,3,M,Single,21,Other,1,Skilled,Low
+159,Large Appliance,0,775,19,8,M,Married,46,Own,3,Unskilled,High
+160,Furniture,0,979,25,48,M,Single,22,Rent,4,Skilled,High
+161,Furniture,0,948,19,2,F,Divorced,20,Rent,4,Skilled,Low
+162,Business,339,2790,22,55,M,Divorced,60,Rent,2,Unskilled,High
+163,Used Car,0,309,49,37,M,Single,25,Own,3,Skilled,Low
+164,Small Appliance,0,762,10,1,F,Divorced,21,Rent,4,Skilled,High
+165,Small Appliance,0,970,13,14,F,Divorced,22,Own,1,Skilled,Low
+166,Used Car,105,320,28,54,M,Single,29,Own,2,Management,Low
+167,Small Appliance,0,861,13,111,M,Single,56,Own,4,Unskilled,High
+168,Repairs,216,262,37,2,M,Single,32,Rent,1,Unskilled,High
+169,Furniture,113,692,11,14,M,Divorced,30,Own,2,Unskilled,Low
+170,Used Car,109,540,37,1,M,Married,27,Rent,4,Management,High
+171,New Car,0,470,13,0,F,Divorced,37,Own,2,Unemployed,Low
+172,New Car,0,192,7,2,M,Single,39,Own,4,Unskilled,Low
+173,New Car,8176,12230,7,5,M,Married,26,Own,2,Unemployed,Low
+174,Repairs,0,772,25,19,M,Divorced,32,Own,2,Skilled,Low
+175,Furniture,468,14186,22,24,M,Single,31,Own,2,Skilled,Low
+176,Used Car,7885,6330,16,14,M,Single,35,Own,2,Skilled,Low
+177,Small Appliance,0,18716,19,93,M,Single,31,Own,3,Management,Low
+178,New Car,0,886,22,96,M,Single,64,Own,4,Skilled,Low
+179,Business,0,750,37,2,M,Divorced,27,Own,1,Skilled,High
+180,Small Appliance,0,3870,25,11,F,Divorced,31,Own,2,Unskilled,High
+181,Small Appliance,0,3273,13,4,M,Married,32,Own,3,Unskilled,High
+182,Business,0,406,6,35,M,Single,73,Own,4,Unskilled,Low
+183,Furniture,0,461,13,48,F,Divorced,30,Own,4,Unskilled,Low
+184,Furniture,0,340,19,4,M,Married,42,Own,1,Unskilled,High
+185,Small Appliance,0,6490,19,85,M,Single,45,Own,4,Skilled,Low
+186,Small Appliance,734,348,7,100,M,Single,27,Own,4,Skilled,Low
+187,Furniture,0,506,25,3,F,Divorced,22,Rent,4,Unskilled,High
+188,Used Car,0,14717,28,7,M,Single,26,Own,2,Skilled,Low
+189,Business,172,0,25,36,M,Single,33,Own,3,Skilled,Low
+190,New Car,644,1571,19,1,F,Divorced,27,Own,3,Skilled,High
+191,New Car,0,0,25,19,F,Divorced,24,Rent,4,Skilled,High
+192,Furniture,617,411,31,3,M,Married,21,Own,1,Skilled,Low
+193,New Car,0,544,25,0,F,Divorced,28,Rent,4,Unemployed,High
+194,Small Appliance,586,0,13,0,M,Single,51,Own,1,Management,High
+195,Furniture,0,835,19,42,F,Divorced,21,Own,1,Skilled,High
+196,Small Appliance,0,823,25,47,M,Single,27,Own,2,Skilled,Low
+197,Business,0,5180,22,4,M,Single,40,Own,2,Unskilled,High
+198,Small Appliance,0,408,16,12,M,Single,34,Other,4,Skilled,Low
+199,New Car,0,821,48,5,F,Divorced,34,Own,1,Unskilled,Low
+200,Education,522,385,10,66,M,Single,63,Own,4,Unskilled,Low
+201,New Car,585,2223,16,0,M,Single,33,Own,2,Management,High
+202,New Car,5588,0,22,10,F,Divorced,28,Own,4,Skilled,High
+203,New Car,0,605,37,20,F,Divorced,24,Own,2,Skilled,High
+204,Furniture,352,7525,13,4,F,Divorced,18,Rent,4,Unskilled,Low
+205,Small Appliance,0,3529,14,0,F,Divorced,63,Own,4,Skilled,Low
+206,Business,2715,1435,49,14,M,Divorced,37,Own,2,Skilled,High
+207,Other,560,887,25,20,M,Single,38,Own,3,Management,High
+208,Small Appliance,895,243,13,4,M,Married,22,Rent,1,Skilled,High
+209,New Car,305,4553,7,2,F,Divorced,31,Own,1,Unskilled,High
+210,Small Appliance,0,418,19,4,M,Single,31,Own,2,Skilled,Low
+211,New Car,0,771,25,0,M,Single,42,Other,2,Skilled,High
+212,Furniture,0,463,11,13,M,Single,24,Rent,2,Unskilled,High
+213,Business,8948,110,31,90,M,Single,65,Own,4,Management,High
+214,Used Car,0,10099,16,108,M,Single,22,Rent,4,Skilled,Low
+215,Used Car,0,13428,7,0,F,Divorced,22,Rent,2,Unemployed,Low
+216,Small Appliance,0,208,13,23,M,Single,51,Own,4,Skilled,Low
+217,Small Appliance,0,552,13,15,F,Divorced,23,Own,4,Unskilled,High
+218,Education,0,3105,16,19,F,Divorced,30,Own,3,Skilled,Low
+219,Small Appliance,483,415,19,6,M,Married,32,Own,2,Skilled,High
+220,Large Appliance,0,1238,13,0,F,Divorced,21,Own,3,Skilled,High
+221,Education,0,238,13,2,F,Divorced,52,Own,4,Skilled,High
+222,Furniture,0,127,31,35,F,Divorced,22,Rent,4,Skilled,High
+223,Business,663,0,19,57,M,Single,41,Own,2,Skilled,Low
+224,New Car,624,785,37,9,F,Divorced,53,Rent,2,Skilled,Low
+225,Repairs,0,718,19,0,F,Divorced,54,Other,4,Unemployed,High
+226,Furniture,0,493,13,21,M,Single,37,Own,3,Unskilled,Low
+227,Small Appliance,152,757,49,45,M,Single,27,Own,4,Skilled,High
+228,New Car,0,9125,13,24,F,Divorced,25,Own,2,Skilled,High
+229,Small Appliance,0,364,13,12,F,Divorced,34,Own,2,Skilled,Low
+230,Business,498,598,37,14,M,Divorced,29,Own,2,Management,High
+231,New Car,0,374,10,19,M,Single,27,Own,3,Unskilled,High
+232,Small Appliance,156,0,13,58,F,Divorced,32,Own,3,Unskilled,High
+233,Used Car,1336,0,37,11,M,Single,29,Own,2,Management,Low
+234,New Car,0,508,13,3,M,Single,32,Own,1,Unskilled,High
+235,Small Appliance,0,956,25,4,F,Divorced,28,Rent,2,Unskilled,High
+236,Furniture,0,636,22,41,F,Divorced,25,Rent,4,Unskilled,Low
+237,New Car,2641,0,13,71,F,Divorced,51,Other,4,Management,Low
+238,Used Car,0,1519,40,74,M,Single,44,Own,2,Management,Low
+239,Business,0,922,19,29,M,Single,33,Own,1,Skilled,Low
+240,Furniture,0,180,5,2,F,Divorced,22,Rent,3,Unskilled,Low
+241,Used Car,0,701,22,108,M,Single,35,Own,4,Management,Low
+242,Small Appliance,0,296,16,8,M,Single,30,Own,2,Skilled,Low
+243,Small Appliance,887,519,7,42,M,Married,27,Own,3,Unskilled,Low
+244,Business,0,800,49,2,F,Divorced,23,Rent,4,Skilled,High
+245,Furniture,0,736,13,6,F,Divorced,19,Rent,4,Skilled,High
+246,Small Appliance,0,11838,7,70,M,Single,44,Own,4,Unskilled,Low
+247,Small Appliance,0,364,5,35,M,Single,41,Own,1,Unskilled,Low
+248,New Car,18408,212,13,9,F,Divorced,35,Own,2,Skilled,Low
+249,New Car,497,888,16,3,F,Divorced,25,Rent,1,Unemployed,High
+250,Used Car,0,999,25,0,M,Single,28,Other,2,Management,Low
+251,Small Appliance,946,0,16,83,M,Single,34,Own,2,Skilled,Low
+252,Business,986,578,28,1,F,Divorced,31,Own,1,Skilled,Low
+253,Education,8122,136,22,4,M,Divorced,32,Rent,1,Skilled,High
+254,Furniture,0,734,37,111,M,Single,41,Own,2,Skilled,High
+255,Business,778,861,49,21,M,Single,22,Own,2,Skilled,High
+256,Other,645,855,25,17,M,Single,28,Own,3,Management,High
+257,Furniture,0,4486,10,3,F,Divorced,21,Rent,4,Skilled,Low
+258,New Car,682,2017,37,85,M,Single,41,Own,4,Management,High
+259,New Car,19812,0,25,37,M,Single,36,Own,2,Unskilled,High
+260,Business,0,500,25,1,M,Single,26,Own,2,Skilled,High
+261,Used Car,0,859,31,89,M,Single,37,Other,4,Management,Low
+262,Business,859,3305,25,26,M,Single,35,Rent,4,Management,Low
+263,Small Appliance,0,1218,13,38,M,Single,34,Own,1,Skilled,Low
+264,New Car,0,9016,49,22,M,Single,43,Other,2,Skilled,High
+265,New Car,0,11587,22,46,F,Divorced,30,Own,2,Management,Low
+266,Furniture,0,8944,25,66,M,Single,31,Rent,3,Skilled,Low
+267,Repairs,0,807,25,75,M,Single,43,Other,4,Skilled,Low
+268,Small Appliance,0,867,31,27,F,Divorced,24,Own,2,Skilled,Low
+269,Small Appliance,795,16804,49,40,M,Single,26,Own,2,Skilled,High
+270,Furniture,0,347,16,5,F,Divorced,45,Rent,1,Skilled,Low
+271,Furniture,0,836,16,4,M,Single,26,Own,3,Unskilled,Low
+272,Furniture,0,142,7,53,F,Divorced,48,Own,1,Skilled,Low
+273,Furniture,0,169,19,6,M,Single,43,Own,3,Skilled,High
+274,Other,852,3613,61,83,F,Divorced,59,Other,4,Management,High
+275,Education,0,403,7,5,F,Divorced,55,Own,2,Skilled,Low
+276,Small Appliance,0,836,25,0,M,Single,29,Own,2,Management,High
+277,New Car,425,0,19,7,F,Divorced,32,Own,2,Skilled,High
+278,Business,0,11481,25,18,M,Single,53,Own,3,Management,High
+279,Business,0,3285,7,21,M,Single,33,Own,2,Unskilled,Low
+280,Education,0,164,13,65,F,Divorced,56,Other,4,Unskilled,Low
+281,New Car,11072,891,61,17,M,Single,33,Other,4,Skilled,Low
+282,Used Car,0,0,37,49,M,Single,46,Other,4,Skilled,High
+283,Used Car,219,841,43,0,M,Single,54,Other,2,Management,Low
+284,New Car,8060,607,19,71,F,Divorced,22,Own,2,Management,Low
+285,New Car,0,486,12,22,M,Single,35,Rent,2,Skilled,Low
+286,New Car,0,108,25,52,M,Single,46,Own,4,Unskilled,High
+287,Small Appliance,0,0,43,28,F,Divorced,29,Own,3,Management,High
+288,New Car,0,113,25,31,F,Divorced,22,Rent,4,Skilled,High
+289,New Car,1613,0,25,118,M,Married,53,Own,4,Skilled,Low
+290,Furniture,757,208,25,36,M,Divorced,42,Own,3,Skilled,High
+291,Retraining,0,603,13,35,M,Married,20,Rent,4,Skilled,High
+292,New Car,0,343,19,22,F,Divorced,35,Own,3,Skilled,Low
+293,Education,977,463,10,61,F,Divorced,33,Own,3,Management,High
+294,Education,197,0,37,17,M,Married,26,Own,2,Skilled,Low
+295,Furniture,0,299,19,11,M,Single,46,Other,4,Skilled,Low
+296,New Car,0,490,13,15,F,Divorced,28,Own,2,Skilled,High
+297,Small Appliance,0,6628,37,65,M,Single,38,Own,4,Skilled,Low
+298,Business,0,859,19,23,M,Single,35,Own,2,Skilled,High
+299,New Car,0,750,13,14,M,Single,47,Own,4,Skilled,High
+300,Small Appliance,256,954,10,13,M,Single,23,Own,3,Skilled,Low
+301,New Car,296,591,37,103,M,Single,56,Other,4,Skilled,High
+302,Furniture,0,13970,13,24,F,Divorced,28,Rent,4,Unskilled,High
+303,New Car,0,857,11,34,M,Single,48,Own,3,Skilled,Low
+304,Furniture,0,5857,19,20,M,Single,27,Own,2,Skilled,Low
+305,Small Appliance,298,3326,73,15,M,Married,23,Own,2,Skilled,High
+306,Small Appliance,0,726,19,7,F,Divorced,24,Rent,4,Skilled,High
+307,Furniture,8636,214,11,3,F,Divorced,22,Own,2,Skilled,Low
+308,New Car,0,207,13,119,M,Single,42,Rent,4,Skilled,High
+309,New Car,0,713,13,29,M,Single,25,Own,2,Skilled,High
+310,New Car,19766,2141,11,54,F,Divorced,47,Other,4,Unskilled,High
+311,New Car,0,483,19,90,F,Divorced,32,Rent,4,Skilled,High
+312,New Car,0,127,7,13,M,Single,25,Rent,3,Skilled,Low
+313,Furniture,0,367,37,22,M,Single,36,Own,2,Skilled,Low
+314,Small Appliance,0,813,43,28,M,Single,25,Own,2,Skilled,High
+315,Furniture,4089,0,7,14,M,Married,26,Own,2,Skilled,Low
+316,New Car,0,102,7,0,F,Divorced,53,Own,4,Unemployed,Low
+317,Repairs,271,759,19,0,F,Divorced,66,Own,4,Skilled,Low
+318,New Car,949,0,49,36,F,Divorced,23,Own,2,Skilled,Low
+319,Small Appliance,0,503,13,62,M,Single,25,Own,2,Skilled,Low
+320,Small Appliance,911,823,46,4,M,Single,24,Own,2,Unskilled,High
+321,New Car,0,693,19,28,M,Single,31,Other,4,Unskilled,High
+322,Used Car,0,973,49,81,F,Divorced,57,Other,4,Unskilled,High
+323,New Car,0,648,15,57,M,Divorced,44,Own,4,Management,High
+324,Other,0,523,37,0,M,Divorced,42,Own,3,Management,Low
+325,Used Car,271,7090,25,2,F,Divorced,27,Rent,4,Skilled,High
+326,Small Appliance,0,596,13,67,M,Single,51,Own,4,Skilled,Low
+327,Used Car,0,904,49,119,M,Single,23,Other,4,Skilled,High
+328,New Car,0,541,19,13,M,Single,31,Own,2,Skilled,High
+329,Furniture,0,154,37,2,F,Divorced,22,Rent,4,Skilled,High
+330,New Car,4802,0,37,12,M,Single,35,Own,4,Skilled,Low
+331,Business,177,0,49,9,M,Single,37,Other,4,Skilled,Low
+332,Small Appliance,0,337,25,107,M,Single,35,Own,1,Management,Low
+333,New Car,0,716,19,33,M,Single,30,Own,2,Skilled,High
+334,Education,996,837,49,83,M,Single,49,Other,4,Skilled,High
+335,Education,705,0,25,24,F,Divorced,32,Own,2,Skilled,Low
+336,Furniture,0,7710,25,114,M,Single,52,Own,4,Skilled,Low
+337,New Car,0,531,13,5,M,Single,45,Own,2,Skilled,High
+338,Small Appliance,5960,129,13,16,M,Married,23,Own,1,Skilled,Low
+339,Furniture,0,941,13,111,M,Single,41,Own,4,Skilled,Low
+340,Furniture,759,596,10,18,F,Divorced,28,Own,2,Skilled,High
+341,Furniture,0,987,37,101,M,Single,30,Own,4,Skilled,High
+342,Small Appliance,651,0,37,102,M,Single,50,Own,2,Skilled,Low
+343,Business,257,460,49,75,F,Divorced,58,Rent,3,Skilled,High
+344,Small Appliance,955,0,49,29,M,Single,36,Own,3,Skilled,Low
+345,Small Appliance,0,798,25,42,M,Single,23,Rent,4,Unskilled,High
+346,Small Appliance,8249,0,31,77,M,Single,48,Own,4,Unskilled,Low
+347,Small Appliance,0,959,11,21,M,Single,37,Own,4,Skilled,Low
+348,Small Appliance,956,1482,46,19,M,Single,20,Rent,4,Skilled,High
+349,New Car,382,883,31,20,F,Divorced,23,Own,2,Skilled,High
+350,Furniture,0,12721,37,31,F,Divorced,39,Own,4,Skilled,Low
+351,Education,842,0,37,9,M,Single,34,Other,4,Unskilled,Low
+352,Repairs,3111,0,13,27,F,Divorced,22,Own,4,Skilled,Low
+353,Small Appliance,0,302,10,30,M,Single,21,Own,2,Skilled,High
+354,Furniture,0,538,25,59,M,Single,38,Rent,2,Management,High
+355,Small Appliance,2846,0,13,14,M,Single,36,Other,4,Skilled,Low
+356,Small Appliance,231,702,10,99,M,Single,26,Own,4,Unskilled,Low
+357,Repairs,0,2688,10,89,M,Single,47,Own,4,Skilled,Low
+358,Small Appliance,17366,0,16,21,M,Single,38,Other,4,Skilled,High
+359,Small Appliance,0,425,13,10,M,Single,27,Rent,2,Skilled,High
+360,New Car,332,214,25,2,M,Single,25,Own,1,Skilled,Low
+361,Small Appliance,242,0,19,6,M,Single,28,Own,3,Skilled,Low
+362,New Car,0,272,7,90,M,Single,67,Own,4,Management,High
+363,Business,929,124,9,1,M,Married,25,Own,2,Skilled,Low
+364,Small Appliance,0,17124,13,95,M,Married,34,Own,1,Skilled,Low
+365,Used Car,0,612,49,32,M,Single,38,Other,4,Skilled,High
+366,New Car,0,862,49,62,M,Single,41,Other,4,Management,High
+367,Furniture,0,146,25,46,M,Single,26,Own,4,Skilled,High
+368,New Car,0,14190,37,92,M,Single,35,Own,4,Skilled,Low
+369,Used Car,0,396,49,73,M,Single,45,Other,4,Skilled,High
+370,Small Appliance,0,519,31,23,F,Divorced,32,Own,2,Skilled,Low
+371,Used Car,646,0,25,9,M,Divorced,47,Other,4,Skilled,Low
+372,New Car,538,344,13,40,M,Married,24,Own,3,Unskilled,High
+373,Furniture,0,204,31,5,M,Divorced,30,Own,4,Unskilled,High
+374,Small Appliance,0,148,43,2,M,Single,33,Own,3,Skilled,High
+375,Furniture,0,435,19,16,F,Divorced,23,Rent,4,Skilled,High
+376,Small Appliance,0,914,19,0,F,Divorced,21,Rent,4,Skilled,High
+377,New Car,135,0,37,7,M,Single,36,Other,4,Skilled,High
+378,Used Car,2472,0,37,41,M,Single,30,Own,2,Management,Low
+379,New Car,0,412,25,22,M,Single,52,Other,4,Skilled,High
+380,New Car,10417,19811,13,27,M,Married,27,Own,2,Skilled,High
+381,Small Appliance,211,822,8,5,F,Divorced,44,Own,1,Skilled,Low
+382,Small Appliance,16630,0,11,47,M,Single,26,Own,2,Skilled,Low
+383,Furniture,0,3369,25,17,M,Single,24,Own,1,Skilled,Low
+384,Furniture,642,0,13,65,F,Divorced,24,Own,2,Skilled,High
+385,Small Appliance,0,707,7,26,M,Single,50,Own,2,Skilled,Low
+386,Small Appliance,296,818,19,93,M,Married,31,Own,2,Unskilled,Low
+387,Business,898,177,22,105,F,Divorced,38,Own,4,Skilled,High
+388,New Car,478,4071,10,40,M,Single,28,Own,3,Skilled,High
+389,New Car,315,466,13,3,M,Single,48,Own,3,Unskilled,Low
+390,New Car,122,460,37,109,M,Single,56,Other,2,Management,High
+391,Furniture,0,991,7,3,F,Divorced,31,Own,4,Skilled,High
+392,Small Appliance,0,17653,22,4,F,Divorced,28,Own,2,Skilled,Low
+393,Education,0,497,41,24,M,Single,26,Own,3,Skilled,High
+394,Business,670,4014,31,21,F,Divorced,25,Rent,4,Unskilled,High
+395,Business,444,921,28,51,F,Divorced,41,Other,4,Management,High
+396,New Car,3880,0,23,37,F,Divorced,24,Rent,4,Skilled,Low
+397,Used Car,819,0,13,23,M,Single,29,Own,2,Skilled,Low
+398,Used Car,0,607,37,17,M,Single,25,Own,2,Skilled,High
+399,Large Appliance,0,15800,16,40,M,Single,35,Own,3,Skilled,Low
+400,Furniture,0,369,7,23,M,Single,35,Own,2,Unskilled,Low
+401,Business,0,4973,25,17,M,Single,26,Own,3,Unskilled,Low
+402,Furniture,0,0,40,30,M,Single,29,Own,4,Management,Low
+403,New Car,0,761,25,92,M,Single,59,Own,4,Unskilled,High
+404,Education,0,471,7,52,F,Divorced,34,Other,4,Skilled,High
+405,Used Car,0,674,37,69,M,Single,41,Other,4,Skilled,Low
+406,New Car,0,547,13,40,M,Divorced,35,Own,3,Skilled,High
+407,Furniture,161,524,13,106,M,Single,27,Rent,4,Skilled,Low
+408,Furniture,0,815,19,13,M,Single,41,Own,3,Skilled,High
+409,Used Car,0,0,11,4,F,Divorced,30,Rent,4,Skilled,Low
+410,New Car,789,989,31,0,M,Married,27,Own,2,Management,High
+411,Small Appliance,765,10406,10,24,F,Divorced,65,Own,3,Unskilled,Low
+412,Furniture,0,957,19,11,F,Divorced,19,Rent,4,Skilled,High
+413,New Car,0,770,37,3,F,Divorced,33,Own,4,Skilled,High
+414,Furniture,983,950,13,5,F,Divorced,24,Rent,3,Skilled,High
+415,Used Car,0,160,13,7,M,Married,40,Rent,4,Skilled,Low
+416,Used Car,0,276,25,91,M,Single,62,Own,4,Skilled,Low
+417,Education,798,137,25,25,F,Divorced,33,Other,4,Unskilled,High
+418,New Car,0,579,22,70,M,Married,29,Own,3,Skilled,Low
+419,New Car,193,2684,13,5,F,Divorced,22,Own,2,Unskilled,High
+420,Small Appliance,497,0,7,51,M,Single,35,Other,4,Skilled,Low
+421,Furniture,0,0,31,53,M,Single,30,Own,4,Skilled,High
+422,New Car,0,0,25,103,F,Divorced,28,Own,2,Skilled,High
+423,New Car,0,712,16,6,F,Divorced,28,Own,2,Skilled,High
+424,New Car,0,912,7,39,M,Single,44,Own,3,Management,Low

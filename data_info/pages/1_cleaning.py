@@ -5,6 +5,8 @@ from pages.processor.cleaning import DataCleaning
 
 df = loaded_data()
 
+
+
 st.header("Credit Risk Analysis")
 
 st.sidebar.write("Links")
@@ -18,6 +20,12 @@ auto_save  = sub1.toggle("Auto save on")
 if auto_save: 
     
     sub1.info("Auto Save is on")
+    
+    if "cleaned_data_updated"  not in st.session_state: 
+        
+        st.session_state["cleaned_data_updated"] = df
+        
+        
     
 else: 
     
@@ -44,7 +52,9 @@ elif commands == "Replace Unwanted Character":
     
     init_columns = sub1.multiselect("Select columns with unwanted char:",df.columns)
     
-    char_to_rem = sub1.text_input("Char to Rem: ")
+    char_to_rem = sub1.text_input("Char to Rem: sep by space").split(" ")
+    
+    st.write(char_to_rem)
     
     char_to_replace_with = sub1.text_input("Char to Rep With: ")
     
@@ -53,10 +63,41 @@ elif commands == "Replace Unwanted Character":
     if clean_btn:
         
         with sub1.status("Done Cleaning..."):
+            
+          
+                try:
+                    
+                    if "cleaned_data_updated" in  st.session_state: 
+                        
+                        df = st.session_state["cleaned_data_updated"]
+                        
+                    
+                    
+                    df = DataCleaning(df,init_columns).rem_unwanted_char(char_to_rem,char_to_replace_with)
+                    st.session_state["cleaned_data_updated"] = df
+                    
+                except Exception as e: 
+                    
+                    sub2.error(e)
+                
+                
+            
+if "cleaned_data_updated" in st.session_state:
     
-            df = DataCleaning(df,init_columns).rem_unwanted_char([char_to_rem],char_to_replace_with)
+    try:      
+      
+      df = st.session_state["cleaned_data_updated"]
+      
+      
+      
+    except Exception as err: 
+        
+        sub2.write(err)
+  
+sub2.dataframe(df)  
+    
     
 
-sub2.dataframe(df)
 
-df.to_csv("temp.csv")
+
+
