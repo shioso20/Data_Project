@@ -5,7 +5,7 @@ from pages.processor.cleaning import DataCleaning
 
 '''
 
-Loads Initial file
+Loads Initial file \n
 
 '''
 
@@ -23,11 +23,11 @@ sub1.subheader("Data Preprocessing")
 
 '''
 
-Auto save: 
+Auto save: \n
 
-once turned on ; checks if session exists if not its creates and saves initial file
+once turned on ; checks if session exists if not its creates and saves initial file \n
 
-=============================================================
+============================================================= \n
 '''
 
 auto_save  = sub1.toggle("Auto save on")
@@ -48,27 +48,27 @@ else:
     
 '''
 
-ENDS Auto save processs
+ENDS Auto save processs \n
 
-=============================================================
+============================================================= \n
 '''
 
 '''
 
-Processes Menu: 
+Processes Menu: \n
 
-Radio button to select process to performs
+Radio button to select process to performs \n
 
-=============================================================
+============================================================= \n
 '''
 
 '''
 
-1. Describes Data
-2. Checks Nullity
-3. Removes unwanted characters
+1. Describes Data \n
+2. Checks Nullity \n
+3. Removes unwanted characters \n
 
-=============================================================
+============================================================= \n
 '''
 
 commands = sub1.radio("Function to Perform: ",["Describe Data","Check Nullity","Replace Unwanted Character"])
@@ -113,12 +113,12 @@ elif commands == "Replace Unwanted Character":
                 try:
                     
                     '''
-                    ============================================
-                      checks if session exists : 
-                      NB :dataframe is saved in this session 
+                    ============================================ \n
+                      checks if session exists : \n
+                      NB :dataframe is saved in this session \n
                       
-                      if exists df saved becomes the current df
-                      if not the initial loeded data is cleaned and saved in session
+                      if exists df saved becomes the current df \n
+                      if not the initial loeded data is cleaned and saved in session \n
                     '''
                     
                     if "cleaned_data_updated" in  st.session_state: 
@@ -136,12 +136,12 @@ elif commands == "Replace Unwanted Character":
                 
                 
 '''
-======================================
-display df: 
+====================================== \n
+display df: \n
 
-checks if session exists: 
-if exists display the dataframe saved in session
-if not initial loaded data is displayed.
+checks if session exists: \n
+if exists display the dataframe saved in session \n
+if not initial loaded data is displayed. \n
 
 '''       
 if "cleaned_data_updated" in st.session_state:
