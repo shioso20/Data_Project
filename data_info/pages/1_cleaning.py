@@ -2,6 +2,7 @@ import streamlit as st
 
 from pages.processor.loading import loaded_data
 from pages.processor.cleaning import DataCleaning
+from pages.processor.rem_outliers import IQR
 
 '''
 
@@ -71,7 +72,7 @@ Radio button to select process to performs \n
 ============================================================= \n
 '''
 
-commands = sub1.radio("Function to Perform: ",["Describe Data","Check Nullity","Replace Unwanted Character"])
+commands = sub1.radio("Function to Perform: ",["Describe Data","Check Nullity","Replace Unwanted Character","Remove Outliers"])
 
 if commands == "Describe Data": 
     
@@ -133,10 +134,47 @@ elif commands == "Replace Unwanted Character":
                 except Exception as e: 
                     
                     sub2.error(e)
+                    
+elif commands == "Remove Outliers": 
+    
+    rem_outlier_method = sub1.radio("Select Methos: ",["IQR","Z-SCORE"])
+    
+    if rem_outlier_method == "IQR": 
+        
+        col_rem_outlier = sub1.selectbox("Select Column",df.columns)
+        
+        if sub1.button("Remove Outliers"):
+        
+            
+            
+            
+            if "cleaned_data_updated" in  st.session_state:
+                
+                df = st.session_state["cleaned_data_updated"]
+                
+            
+            
+            IQR_ = IQR(df,col_rem_outlier)
+            
+            Q1,Q2 = IQR_.calculate_all() 
+            
+            df = df[(df[col_rem_outlier] < Q2) & (df[col_rem_outlier] > Q1)]
+            
+            st.session_state["cleaned_data_updated"] = df
+            
+            
+        
+        
+        
+        
+    
+    
+    
                 
                 
 '''
-====================================== \n
+======================================                                                                                                                                                                                         L
+\n
 display df: \n
 
 checks if session exists: \n
