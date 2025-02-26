@@ -2,9 +2,10 @@
 import streamlit as st 
 from pages.processor.charts import  display_outliers
 from pages.processor.loading import loaded_data
+from pages.processor.state_manager import create_sess_state
 
 
-
+sub1,sub2 = st.columns(2)
 
 if "cleaned_data_updated" in  st.session_state:
     
@@ -14,13 +15,50 @@ else:
     
     df = loaded_data()
     
-col4_,col1_,col2_,col3_ = st.columns(4)
+chart_type = st.sidebar.selectbox("Chart Type to Change",["All","line","bar"])
+if chart_type == "All":
+    color = st.sidebar.selectbox("Select Color:",["blue","green","orange","yellow"])
+    x_col = st.sidebar.selectbox("Select X:",df.columns)
+    y_col = st.sidebar.selectbox("Select Y:",df.columns)
+    hue_col = st.sidebar.color_picker("Select Color")
+    
+    
+    create_sess_state("line",[x_col,y_col]) 
+    create_sess_state("bar",[x_col,y_col]) 
+    
+    x_bar_col,y_bar_col = st.session_state["bar"][0],st.session_state["bar"][1]
+    
+    x_line_col,y_line_col = st.session_state["line"][0],st.session_state["line"][1]
+    
+    
 
-color = col4_.selectbox("Select Color:",["blue","green","orange","yellow"])
-x_col = col1_.selectbox("Select X:",df.columns)
-y_col = col2_.selectbox("Select Y:",df.columns)
-hue_col = col3_.selectbox("Select Hue:",df.columns)
+elif chart_type == "line": 
+    
+    color = st.sidebar.selectbox("Select Color:",["blue","green","orange","yellow"])
+    x_line_col = st.sidebar.selectbox("Select X:",df.columns)
+    y_line_col = st.sidebar.selectbox("Select Y:",df.columns)
+    hue_col = st.sidebar.color_picker("Select Color")
+    
+    x_bar_col,y_bar_col = st.session_state["bar"][0],st.session_state["bar"][1]
+    x_line_col,y_line_col = x_line_col,y_line_col
+    
+    st.session_state["line"] = [x_line_col,y_line_col]
+    
+    
+elif chart_type == "bar": 
+    
+    color = st.sidebar.selectbox("Select Color:",["blue","green","orange","yellow"])
+    x_bar_col = st.sidebar.selectbox("Select X:",df.columns)
+    y_bar_col = st.sidebar.selectbox("Select Y:",df.columns)
+    hue_col = st.sidebar.color_picker("Select Color")
+    
+    x_bar_col,y_bar_col = x_bar_col,y_bar_col
+    x_line_col,y_line_col = st.session_state["line"][0],st.session_state["line"][1]
+    
+    st.session_state["bar"] = [x_bar_col,y_bar_col]
+    
 
-fig = display_outliers(df,x_col,y_col,hue_col,color)
 
-st.pyplot(fig)
+sub1.bar_chart(df,x=x_bar_col,y=y_bar_col)
+
+sub2.line_chart(df,x=x_line_col,y=y_line_col,color=hue_col)

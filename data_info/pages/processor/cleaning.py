@@ -65,6 +65,37 @@ class DataCleaning:
         return self.df
     
     
+class DataReshaping: 
+    
+    def __init__(self,df,id_vars,value_vars_list,attribute): 
+        
+        
+        self.df = df  
+        self.id_vars = id_vars 
+        self.value_vars_list = value_vars_list 
+        self.attribute = attribute 
+        
+    
+    def stack_df(self): 
+        
+        return self.df.stack()
+    
+    def unstack_df(self): 
+        
+        return self.df.unstack()
+    
+    def melt_df(self): 
+        
+        
+        return pd.melt(self.df,id_vars = self.id_vars,value_vars=self.value_vars_list,var_name=self.attribute)
+        
+        
+        
+    
+    
+
+    
+    
     
     
     

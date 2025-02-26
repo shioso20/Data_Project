@@ -1,5 +1,6 @@
 from pages.processor.loading import loaded_data 
-import streamlit as st
+import streamlit as st 
+
 
 df = loaded_data() 
 

@@ -15,7 +15,7 @@ for key in st.session_state.keys():
     
     col1.write(key)
     
-    if col2.button("delete"): 
+    if col2.button("Delete:"+str(key)): 
         
         results.append("Deleted: "+str(st.session_state[key]))
         
