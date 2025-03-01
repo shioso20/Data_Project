@@ -49,7 +49,7 @@ def loaded_data():
 
     file_name = get_filenames(path)
 
-    full_path = os.path.join(path, file_name[-5])
+    full_path = os.path.join(path,"credit.csv")
     
     print(full_path)
 

@@ -22,7 +22,11 @@ if st.session_state:
 col1,col2 = st.columns(2)
 
 
-col1.dataframe(describe_data())
+with col1: 
+    
+    with st.container(border=True,height=400):
+
+        st.dataframe(describe_data())
 
 '''
 ===============================\n
@@ -64,8 +68,12 @@ if apply_button:
     df = df[(df["Age"] >= select_age[0]) & (df["Age"] <= select_age[1]) ]
 
     params = data_summary(grouper = [grouper],agg = {calculate:[min,max,np.mean]},df=df)
+    
+    with col2: 
+    
+        with st.container(border=True,height=400):
 
-    col2.dataframe(params)
+            st.dataframe(params)
 
    
     

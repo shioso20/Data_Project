@@ -10,6 +10,12 @@ from pages.processor.encoding import label_encoding,one_hot_encoding
 
 df = loaded_data()
 
+file = open("pages/page_style/style.css")
+
+file = file.read()
+
+
+st.markdown(f'<style>{file}</style>',unsafe_allow_html=True)
 
 
 st.header("Credit Risk Analysis")

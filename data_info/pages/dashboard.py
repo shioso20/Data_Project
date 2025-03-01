@@ -3,6 +3,19 @@ import streamlit as st
 from pages.processor.charts import  display_outliers
 from pages.processor.loading import loaded_data
 from pages.processor.state_manager import create_sess_state
+import pathlib
+
+
+def load_style(path):
+
+    with open(path) as file:
+
+        st.html(f'<style>{file}</style>')
+
+
+style_path = pathlib.Path("pages/page_style/style.css")
+
+load_style(style_path)
 
 
 sub1,sub2 = st.columns(2)
@@ -58,7 +71,11 @@ elif chart_type == "bar":
     st.session_state["bar"] = [x_bar_col,y_bar_col]
     
 
+with sub1:
+    with st.container(border=True,key="bars"):
+        st.bar_chart(df,x=x_bar_col,y=y_bar_col)
 
-sub1.bar_chart(df,x=x_bar_col,y=y_bar_col)
-
-sub2.line_chart(df,x=x_line_col,y=y_line_col,color=hue_col)
+with sub2:
+    
+    with st.container(border=True,key="line"):
+        st.line_chart(df,x=x_line_col,y=y_line_col,color=hue_col)

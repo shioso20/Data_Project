@@ -1,14 +1,65 @@
 from pages.processor.loading import loaded_data 
 import streamlit as st 
-
+import pathlib
+import streamlit as st
+st.set_page_config(layout="wide")
 
 df = loaded_data() 
 
+def load_style(path):
 
-column_config = {
+    with open(path) as file:
+
+        st.html(f'<style>{file}</style>')
+
+
+style_path = pathlib.Path("pages/page_style/style.css")
+
+load_style(style_path)
+
+
+dashboard_page = st.Page( 
+                         
+            page="pages/dashboard.py",
+            title="Dashboard",
+            icon=":material/dashboard:",
+            default=True,
+            
+                         
+                         
+)
+
+cleaning_page = st.Page( 
+                         
+            page="pages/cleaning.py",
+            title="Data Cleaning",
+            icon=":material/brush:",
+          
+                         
+                         
+)
+
+summary_page = st.Page( 
+                         
+            page="pages/summary.py",
+            title="Summarize Data",
+            icon=":material/summarize:",
+          
+                         
+                         
+)
+
+pg = st.navigation(
     
-    "Age":st.column_config.BarChartColumn("Age",y_min=0,y_max=100)
-}
+    {
+                   
+                   "Charts":[dashboard_page],
+                   
+                  "processess": [cleaning_page,summary_page]
+                  
+    }
+                  
+                  
+                  )
 
-st.data_editor(df,column_config=column_config)
-
+pg.run()
