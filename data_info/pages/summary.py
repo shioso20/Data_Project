@@ -2,7 +2,16 @@ import streamlit as st
 import numpy as np
 from pages.processor.info import describe_data,data_summary
 from pages.processor.loading import loaded_data
+import pathlib
 
+
+
+file = open("pages/page_style/style.css")
+
+file = file.read()
+
+
+st.markdown(f'<style>{file}</style>',unsafe_allow_html=True)
 
 st.subheader(" Summary Page ") 
 
@@ -61,7 +70,7 @@ select_age = st.sidebar.slider("Select Age Group",20,60,(20,60))
 
 
 
-apply_button = st.sidebar.button("Apply")
+apply_button = st.sidebar.button("Apply",key="summary")
 
 if apply_button:
     

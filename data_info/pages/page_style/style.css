@@ -1,11 +1,12 @@
+.st-key-summary button {
 
-.st-key-bars{
-   
-   
-    border-radius: 20px;
-    box-shadow: 5px 10px red;
-   
+
+    background-color:blue;
+
 }
+
+
+
 
 [data-testid="stSidebarNavLink"] {
     text-decoration: none;
@@ -22,6 +23,18 @@
     line-height: 2;
     color: orange;
     background-color:orangered;
+}
+
+[data-testid="stBaseButton-secondary"]{
+
+    background-color: blue;
+}
+
+.st-emotion-cache-14553y9 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    color: orange;
+
 }
 
 

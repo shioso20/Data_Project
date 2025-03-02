@@ -49,13 +49,23 @@ summary_page = st.Page(
                          
 )
 
+session_page = st.Page(
+    
+    page="pages/manage_sessions.py",
+    title = "Session Manager",
+    icon = ":material/settings:"
+    
+)
+
 pg = st.navigation(
     
     {
                    
                    "Charts":[dashboard_page],
                    
-                  "processess": [cleaning_page,summary_page]
+                  "processess": [cleaning_page,summary_page],
+                  
+                  "Manage":[session_page]
                   
     }
                   

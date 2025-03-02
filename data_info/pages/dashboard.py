@@ -3,22 +3,20 @@ import streamlit as st
 from pages.processor.charts import  display_outliers
 from pages.processor.loading import loaded_data
 from pages.processor.state_manager import create_sess_state
+from pages.processor.metrics import calculate_credit_risk,calculate_credit_risk_by_gender
+import plotly.express as px
 import pathlib
 
 
-def load_style(path):
-
-    with open(path) as file:
-
-        st.html(f'<style>{file}</style>')
 
 
-style_path = pathlib.Path("pages/page_style/style.css")
 
-load_style(style_path)
+file = open("pages/page_style/style.css")
+
+file = file.read()
 
 
-sub1,sub2 = st.columns(2)
+st.markdown(f'<style>{file}</style>',unsafe_allow_html=True)
 
 if "cleaned_data_updated" in  st.session_state:
     
@@ -27,6 +25,42 @@ if "cleaned_data_updated" in  st.session_state:
 else:
     
     df = loaded_data()
+
+col1,col2,col3,col4 = st.columns(4)
+sub1,sub2 = st.columns(2)
+
+low,high,ratio = calculate_credit_risk(df)
+high_,low_,ratio_high,ratio_low = calculate_credit_risk_by_gender(df)
+
+with col1: 
+    
+    with st.container(border=True,key="metric1"): 
+        
+        
+        st.metric("Low Credit Risk",low,ratio)
+        
+with col2: 
+    
+    with st.container(border=True,key="metric2"): 
+        
+        st.metric("High Credit Risk",high,ratio)
+        
+with col3: 
+    
+    with st.container(border=True,key="metric3"): 
+        
+        st.metric("High Credit Risk Gender Ratio",high_,ratio_high)
+        
+with col4: 
+    
+    with st.container(border=True,key="metric4"): 
+        
+        st.metric("Low Credit Risk Gender Ratio",low_,ratio_low)
+        
+    
+    
+
+
     
 chart_type = st.sidebar.selectbox("Chart Type to Change",["All","line","bar"])
 if chart_type == "All":
@@ -79,3 +113,12 @@ with sub2:
     
     with st.container(border=True,key="line"):
         st.line_chart(df,x=x_line_col,y=y_line_col,color=hue_col)
+        
+        
+fig = px.line(df, x="Savings", y="Months Employed", color="Gender", hover_name="Gender",animation_frame="Age", animation_group="Gender",
+        line_shape="spline", render_mode="svg")
+
+
+with st.container(border=True):
+
+    st.plotly_chart(fig)
