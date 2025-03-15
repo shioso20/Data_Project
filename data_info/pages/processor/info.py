@@ -2,10 +2,10 @@ from pages.processor.loading import loaded_data
 import numpy as np
 
 
-df = loaded_data()
 
 
-def describe_data():
+
+def describe_data(df):
 
     return df.describe()
 
